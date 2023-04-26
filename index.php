@@ -1,5 +1,5 @@
 <?
 
-echo("version - 1\n\n");
+echo("version - 2\n\n");
 
 var_dump(getenv());
